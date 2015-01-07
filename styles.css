@@ -64,7 +64,6 @@ button {
 	display: block;
 	width: 285px;
 	height: 28px;
-	/*margin: 0px 70px 0px 30px;*/
 	border: 2px solid #2b2b2b;
 	border-radius: 4px;
 	background-color: #515151;
@@ -125,6 +124,7 @@ path[name="node-on"] {
 }
 
 svg text {
+	font-family: "avenir", "source sans pro", arial;
 	font-size: 12px;
 	letter-spacing: 1px;
 }
